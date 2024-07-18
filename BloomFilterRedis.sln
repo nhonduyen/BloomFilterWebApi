@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomFilterRedis", "BloomFilterRedis\BloomFilterRedis.csproj", "{F2A7F1B4-AD66-475D-98B6-EE1D0B69058D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A7F1B4-AD66-475D-98B6-EE1D0B69058D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A7F1B4-AD66-475D-98B6-EE1D0B69058D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A7F1B4-AD66-475D-98B6-EE1D0B69058D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A7F1B4-AD66-475D-98B6-EE1D0B69058D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A8123A-538C-4BDB-93DF-CC7E4A1E95BA}
+	EndGlobalSection
+EndGlobal

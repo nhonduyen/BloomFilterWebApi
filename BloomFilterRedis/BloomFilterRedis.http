@@ -1,0 +1,6 @@
+@BloomFilterRedis_HostAddress = http://localhost:5130
+
+GET {{BloomFilterRedis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
